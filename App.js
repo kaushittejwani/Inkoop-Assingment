@@ -32,7 +32,7 @@ function App() {
           arr.push(+arr[i-1]+2)
         }
       }
-     //array join methods
+     //array join method 
       return arr.join();
         
       }
