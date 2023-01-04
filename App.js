@@ -28,7 +28,7 @@ function App() {
           arr.push(+num+2)
         }
         else{
-          //array methods
+          //array push method is used to push the elements in the array from the backside
           arr.push(+arr[i-1]+2)
         }
       }
