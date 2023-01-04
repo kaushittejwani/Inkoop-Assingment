@@ -24,11 +24,11 @@ function App() {
       for(i=0;i<=2;i++){
         
         if(i==0){
-          //array method
+          //array methods
           arr.push(+num+2)
         }
         else{
-          //array method
+          //array methods
           arr.push(+arr[i-1]+2)
         }
       }
