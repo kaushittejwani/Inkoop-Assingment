@@ -24,9 +24,11 @@ function App() {
       for(i=0;i<=2;i++){
         
         if(i==0){
+          //array methods
           arr.push(+num+2)
         }
         else{
+          //array methods
           arr.push(+arr[i-1]+2)
         }
       }
@@ -37,7 +39,7 @@ function App() {
       }
       
     
-  //array methods
+ 
   
     
   
