@@ -37,7 +37,7 @@ function App() {
       }
       
     
-  //array
+  //array methods
   
     
   
