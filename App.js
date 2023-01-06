@@ -24,7 +24,7 @@ function App() {
       for(i=0;i<=2;i++){
         
         if(i==0){
-          //array methods
+        
           arr.push(+num+2)
         }
         else{
